@@ -1,1 +1,1 @@
-[ ]
+[ { "title": "Doing Recon on a Large Scope", "url": "/posts/doing-recon/", "categories": "bug hunting, recon", "tags": "bug hunting, recon, enumeration, OSINT", "date": "2020-02-29 12:33:00 +0100", "snippet": "hello Hackers, this is the first post on my blog and I hope it will be useful for some of you, I’m gonna talk about Recon on Targets with a large scope and how to collect its domains, subdomains and IPs.Why Recon!As you all know Recon is the first stage when you’re doing a penetration testig or b..." } ]
